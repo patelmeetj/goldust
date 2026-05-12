@@ -1,0 +1,392 @@
+Uri: https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@300;400;600;700&amp;family=Poppins:wght@400;500;600;700;800;900&amp;display=swap
+File Name: C:\Users\Dell\Downloads\goldust.in\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/nunitosans/v19/pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4G1ilntA.ttf
+File Name: C:\Users\Dell\Downloads\goldust.in\s\nunitosans\v19\pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4G1ilntA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunitosans/v19/pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4GCC5ntA.ttf
+File Name: C:\Users\Dell\Downloads\goldust.in\s\nunitosans\v19\pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4GCC5ntA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunitosans/v19/pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4GiClntA.ttf
+File Name: C:\Users\Dell\Downloads\goldust.in\s\nunitosans\v19\pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4GiClntA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunitosans/v19/pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4GMS5ntA.ttf
+File Name: C:\Users\Dell\Downloads\goldust.in\s\nunitosans\v19\pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4GMS5ntA.ttf
+Content Type: font/ttf
+
+Uri: https://goldust.in/
+File Name: C:\Users\Dell\Downloads\goldust.in\index.htm
+Content Type: text/html
+
+Uri: https://goldust.in/about-us.html
+File Name: C:\Users\Dell\Downloads\goldust.in\about-us.html
+Content Type: text/html
+
+Uri: https://goldust.in/ContactUs.aspx
+File Name: C:\Users\Dell\Downloads\goldust.in\Contact.html
+Content Type: text/html
+
+Uri: https://goldust.in/css/font-icons.css
+File Name: C:\Users\Dell\Downloads\goldust.in\css\font-icons.css
+Content Type: text/css
+
+Uri: https://goldust.in/css/images/ui-bg_glass_75_d0e5f5_1x400.html
+File Name: C:\Users\Dell\Downloads\goldust.in\css\images\ui-bg_glass_75_d0e5f5_1x400.html
+Content Type: text/html
+
+Uri: https://goldust.in/css/images/ui-bg_glass_85_dfeffc_1x400.html
+File Name: C:\Users\Dell\Downloads\goldust.in\css\images\ui-bg_glass_85_dfeffc_1x400.html
+Content Type: text/html
+
+Uri: https://goldust.in/css/images/ui-bg_glass_95_fef1ec_1x400.html
+File Name: C:\Users\Dell\Downloads\goldust.in\css\images\ui-bg_glass_95_fef1ec_1x400.html
+Content Type: text/html
+
+Uri: https://goldust.in/css/images/ui-bg_gloss-wave_55_5c9ccc_500x100.html
+File Name: C:\Users\Dell\Downloads\goldust.in\css\images\ui-bg_gloss-wave_55_5c9ccc_500x100.html
+Content Type: text/html
+
+Uri: https://goldust.in/css/images/ui-bg_inset-hard_100_f5f8f9_1x100.html
+File Name: C:\Users\Dell\Downloads\goldust.in\css\images\ui-bg_inset-hard_100_f5f8f9_1x100.html
+Content Type: text/html
+
+Uri: https://goldust.in/css/images/ui-bg_inset-hard_100_fcfdfd_1x100.html
+File Name: C:\Users\Dell\Downloads\goldust.in\css\images\ui-bg_inset-hard_100_fcfdfd_1x100.html
+Content Type: text/html
+
+Uri: https://goldust.in/css/images/ui-icons_217bc0_256x240.html
+File Name: C:\Users\Dell\Downloads\goldust.in\css\images\ui-icons_217bc0_256x240.html
+Content Type: text/html
+
+Uri: https://goldust.in/css/images/ui-icons_2e83ff_256x240.html
+File Name: C:\Users\Dell\Downloads\goldust.in\css\images\ui-icons_2e83ff_256x240.html
+Content Type: text/html
+
+Uri: https://goldust.in/css/images/ui-icons_469bdd_256x240.html
+File Name: C:\Users\Dell\Downloads\goldust.in\css\images\ui-icons_469bdd_256x240.html
+Content Type: text/html
+
+Uri: https://goldust.in/css/images/ui-icons_6da8d5_256x240.html
+File Name: C:\Users\Dell\Downloads\goldust.in\css\images\ui-icons_6da8d5_256x240.html
+Content Type: text/html
+
+Uri: https://goldust.in/css/images/ui-icons_cd0a0a_256x240.html
+File Name: C:\Users\Dell\Downloads\goldust.in\css\images\ui-icons_cd0a0a_256x240.html
+Content Type: text/html
+
+Uri: https://goldust.in/css/images/ui-icons_d8e7f3_256x240.html
+File Name: C:\Users\Dell\Downloads\goldust.in\css\images\ui-icons_d8e7f3_256x240.html
+Content Type: text/html
+
+Uri: https://goldust.in/css/images/ui-icons_f9bd01_256x240.html
+File Name: C:\Users\Dell\Downloads\goldust.in\css\images\ui-icons_f9bd01_256x240.html
+Content Type: text/html
+
+Uri: https://goldust.in/css/plugins.css
+File Name: C:\Users\Dell\Downloads\goldust.in\css\plugins.css
+Content Type: text/css
+
+Uri: https://goldust.in/css/responsive.css
+File Name: C:\Users\Dell\Downloads\goldust.in\css\responsive.css
+Content Type: text/css
+
+Uri: https://goldust.in/css/style.css
+File Name: C:\Users\Dell\Downloads\goldust.in\css\style.css
+Content Type: text/css
+
+Uri: https://goldust.in/fonts/flaticon4a47.eot?b66957d660bcc55c5e858f139c964a40
+File Name: C:\Users\Dell\Downloads\goldust.in\fonts\flaticon4a47.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://goldust.in/fonts/flaticon4a47.svg?b66957d660bcc55c5e858f139c964a40
+File Name: C:\Users\Dell\Downloads\goldust.in\fonts\flaticon4a47.svg
+Content Type: image/svg+xml
+
+Uri: https://goldust.in/fonts/flaticon4a47.ttf?b66957d660bcc55c5e858f139c964a40
+File Name: C:\Users\Dell\Downloads\goldust.in\fonts\flaticon4a47.ttf
+Content Type: application/octet-stream
+
+Uri: https://goldust.in/fonts/flaticon4a47.woff2?b66957d660bcc55c5e858f139c964a40
+File Name: C:\Users\Dell\Downloads\goldust.in\fonts\flaticon4a47.woff2
+Content Type: font/x-woff2
+
+Uri: https://goldust.in/fonts/flaticon4a47.woff?b66957d660bcc55c5e858f139c964a40
+File Name: C:\Users\Dell\Downloads\goldust.in\fonts\flaticon4a47.woff
+Content Type: font/x-woff
+
+Uri: https://goldust.in/fonts/icomoon7d2d.eot?3aun5s
+File Name: C:\Users\Dell\Downloads\goldust.in\fonts\icomoon7d2d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://goldust.in/fonts/icomoon7d2d.svg?3aun5s
+File Name: C:\Users\Dell\Downloads\goldust.in\fonts\icomoon7d2d.svg
+Content Type: image/svg+xml
+
+Uri: https://goldust.in/fonts/icomoon7d2d.ttf?3aun5s
+File Name: C:\Users\Dell\Downloads\goldust.in\fonts\icomoon7d2d.ttf
+Content Type: application/octet-stream
+
+Uri: https://goldust.in/fonts/icomoon7d2d.woff?3aun5s
+File Name: C:\Users\Dell\Downloads\goldust.in\fonts\icomoon7d2d.woff
+Content Type: font/x-woff
+
+Uri: https://goldust.in/fonts/lightcaseeead.eot?55356177
+File Name: C:\Users\Dell\Downloads\goldust.in\fonts\lightcaseeead.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://goldust.in/fonts/lightcaseeead.svg?55356177
+File Name: C:\Users\Dell\Downloads\goldust.in\fonts\lightcaseeead.svg
+Content Type: image/svg+xml
+
+Uri: https://goldust.in/fonts/lightcaseeead.ttf?55356177
+File Name: C:\Users\Dell\Downloads\goldust.in\fonts\lightcaseeead.ttf
+Content Type: application/octet-stream
+
+Uri: https://goldust.in/fonts/lightcaseeead.woff?55356177
+File Name: C:\Users\Dell\Downloads\goldust.in\fonts\lightcaseeead.woff
+Content Type: font/x-woff
+
+Uri: https://goldust.in/img/about/12.jpg
+File Name: C:\Users\Dell\Downloads\goldust.in\img\about\12.jpg
+Content Type: image/jpeg
+
+Uri: https://goldust.in/img/about/13.jpg
+File Name: C:\Users\Dell\Downloads\goldust.in\img\about\13.jpg
+Content Type: image/jpeg
+
+Uri: https://goldust.in/img/about/14.jpg
+File Name: C:\Users\Dell\Downloads\goldust.in\img\about\14.jpg
+Content Type: image/jpeg
+
+Uri: https://goldust.in/img/banner/layout-banner.jpg
+File Name: C:\Users\Dell\Downloads\goldust.in\img\banner\layout-banner.jpg
+Content Type: image/jpeg
+
+Uri: https://goldust.in/img/favicon.png
+File Name: C:\Users\Dell\Downloads\goldust.in\img\favicon.png
+Content Type: image/png
+
+Uri: https://goldust.in/img/gallery/Image1.jpg
+File Name: C:\Users\Dell\Downloads\goldust.in\img\gallery\Image1.jpg
+Content Type: image/jpeg
+
+Uri: https://goldust.in/img/gallery/playground-activities.jpg
+File Name: C:\Users\Dell\Downloads\goldust.in\img\gallery\playground-activities.jpg
+Content Type: image/jpeg
+
+Uri: https://goldust.in/img/gallery/safety-concerns.jpg
+File Name: C:\Users\Dell\Downloads\goldust.in\img\gallery\safety-concerns.jpg
+Content Type: image/jpeg
+
+Uri: https://goldust.in/img/gallery/underground-wiring.jpg
+File Name: C:\Users\Dell\Downloads\goldust.in\img\gallery\underground-wiring.jpg
+Content Type: image/jpeg
+
+Uri: https://goldust.in/img/gallery/wired-secure-connections.jpg
+File Name: C:\Users\Dell\Downloads\goldust.in\img\gallery\wired-secure-connections.jpg
+Content Type: image/jpeg
+
+Uri: https://goldust.in/img/icons/10.png
+File Name: C:\Users\Dell\Downloads\goldust.in\img\icons\10.png
+Content Type: image/png
+
+Uri: https://goldust.in/img/icons/11.png
+File Name: C:\Users\Dell\Downloads\goldust.in\img\icons\11.png
+Content Type: image/png
+
+Uri: https://goldust.in/img/icons/12.png
+File Name: C:\Users\Dell\Downloads\goldust.in\img\icons\12.png
+Content Type: image/png
+
+Uri: https://goldust.in/img/icons/apartment.png
+File Name: C:\Users\Dell\Downloads\goldust.in\img\icons\apartment.png
+Content Type: image/png
+
+Uri: https://goldust.in/img/icons/building.png
+File Name: C:\Users\Dell\Downloads\goldust.in\img\icons\building.png
+Content Type: image/png
+
+Uri: https://goldust.in/img/icons/car.png
+File Name: C:\Users\Dell\Downloads\goldust.in\img\icons\car.png
+Content Type: image/png
+
+Uri: https://goldust.in/img/icons/icon-1.png
+File Name: C:\Users\Dell\Downloads\goldust.in\img\icons\icon-1.png
+Content Type: image/png
+
+Uri: https://goldust.in/img/icons/icon-2.png
+File Name: C:\Users\Dell\Downloads\goldust.in\img\icons\icon-2.png
+Content Type: image/png
+
+Uri: https://goldust.in/img/icons/icon-3.png
+File Name: C:\Users\Dell\Downloads\goldust.in\img\icons\icon-3.png
+Content Type: image/png
+
+Uri: https://goldust.in/img/icons/icon-img/11.png
+File Name: C:\Users\Dell\Downloads\goldust.in\img\icons\icon-img\11.png
+Content Type: image/png
+
+Uri: https://goldust.in/img/icons/icon-img/12.png
+File Name: C:\Users\Dell\Downloads\goldust.in\img\icons\icon-img\12.png
+Content Type: image/png
+
+Uri: https://goldust.in/img/img-slide/11.jpg
+File Name: C:\Users\Dell\Downloads\goldust.in\img\img-slide\11.jpg
+Content Type: image/jpeg
+
+Uri: https://goldust.in/img/img-slide/12.jpg
+File Name: C:\Users\Dell\Downloads\goldust.in\img\img-slide\12.jpg
+Content Type: image/jpeg
+
+Uri: https://goldust.in/img/img-slide/13.jpg
+File Name: C:\Users\Dell\Downloads\goldust.in\img\img-slide\13.jpg
+Content Type: image/jpeg
+
+Uri: https://goldust.in/img/img-slide/14.jpg
+File Name: C:\Users\Dell\Downloads\goldust.in\img\img-slide\14.jpg
+Content Type: image/jpeg
+
+Uri: https://goldust.in/img/img-slide/15.jpg
+File Name: C:\Users\Dell\Downloads\goldust.in\img\img-slide\15.jpg
+Content Type: image/jpeg
+
+Uri: https://goldust.in/img/img-slide/Final.mp4
+File Name: C:\Users\Dell\Downloads\goldust.in\img\img-slide\Final.mp4
+Content Type: video/mp4
+
+Uri: https://goldust.in/img/logo-2_old.png
+File Name: C:\Users\Dell\Downloads\goldust.in\img\logo-2_old.png
+Content Type: image/png
+
+Uri: https://goldust.in/img/logo_old.png
+File Name: C:\Users\Dell\Downloads\goldust.in\img\logo_old.png
+Content Type: image/png
+
+Uri: https://goldust.in/img/neighbourhood/5-1.jpg
+File Name: C:\Users\Dell\Downloads\goldust.in\img\neighbourhood\5-1.jpg
+Content Type: image/jpeg
+
+Uri: https://goldust.in/img/neighbourhood/5-2.jpg
+File Name: C:\Users\Dell\Downloads\goldust.in\img\neighbourhood\5-2.jpg
+Content Type: image/jpeg
+
+Uri: https://goldust.in/img/neighbourhood/airport01-02.jpg
+File Name: C:\Users\Dell\Downloads\goldust.in\img\neighbourhood\airport01-02.jpg
+Content Type: image/jpeg
+
+Uri: https://goldust.in/img/neighbourhood/airport01.jpg
+File Name: C:\Users\Dell\Downloads\goldust.in\img\neighbourhood\airport01.jpg
+Content Type: image/jpeg
+
+Uri: https://goldust.in/img/neighbourhood/hospital01-02.jpg
+File Name: C:\Users\Dell\Downloads\goldust.in\img\neighbourhood\hospital01-02.jpg
+Content Type: image/jpeg
+
+Uri: https://goldust.in/img/neighbourhood/hospital01.jpg
+File Name: C:\Users\Dell\Downloads\goldust.in\img\neighbourhood\hospital01.jpg
+Content Type: image/jpeg
+
+Uri: https://goldust.in/img/neighbourhood/mall01-02.jpg
+File Name: C:\Users\Dell\Downloads\goldust.in\img\neighbourhood\mall01-02.jpg
+Content Type: image/jpeg
+
+Uri: https://goldust.in/img/neighbourhood/mall01.jpg
+File Name: C:\Users\Dell\Downloads\goldust.in\img\neighbourhood\mall01.jpg
+Content Type: image/jpeg
+
+Uri: https://goldust.in/img/neighbourhood/universities01-02.jpg
+File Name: C:\Users\Dell\Downloads\goldust.in\img\neighbourhood\universities01-02.jpg
+Content Type: image/jpeg
+
+Uri: https://goldust.in/img/neighbourhood/universities01.jpg
+File Name: C:\Users\Dell\Downloads\goldust.in\img\neighbourhood\universities01.jpg
+Content Type: image/jpeg
+
+Uri: https://goldust.in/img/others/7.png
+File Name: C:\Users\Dell\Downloads\goldust.in\img\others\7.png
+Content Type: image/png
+
+Uri: https://goldust.in/img/others/8.png
+File Name: C:\Users\Dell\Downloads\goldust.in\img\others\8.png
+Content Type: image/png
+
+Uri: https://goldust.in/img/others/9.png
+File Name: C:\Users\Dell\Downloads\goldust.in\img\others\9.png
+Content Type: image/png
+
+Uri: https://goldust.in/img/slider/1.jpg
+File Name: C:\Users\Dell\Downloads\goldust.in\img\slider\1.jpg
+Content Type: image/jpeg
+
+Uri: https://goldust.in/img/slider/2.jpg
+File Name: C:\Users\Dell\Downloads\goldust.in\img\slider\2.jpg
+Content Type: image/jpeg
+
+Uri: https://goldust.in/img/team/s-prem-singh-sokhi.jpg
+File Name: C:\Users\Dell\Downloads\goldust.in\img\team\s-prem-singh-sokhi.jpg
+Content Type: image/jpeg
+
+Uri: https://goldust.in/img/team/s-rajbir-singh-sokhi.jpg
+File Name: C:\Users\Dell\Downloads\goldust.in\img\team\s-rajbir-singh-sokhi.jpg
+Content Type: image/jpeg
+
+Uri: https://goldust.in/img/team/team-member.jpg
+File Name: C:\Users\Dell\Downloads\goldust.in\img\team\team-member.jpg
+Content Type: image/jpeg
+
+Uri: https://goldust.in/index.html
+File Name: C:\Users\Dell\Downloads\goldust.in\index.html
+Content Type: text/html
+
+Uri: https://goldust.in/js/main.js
+File Name: C:\Users\Dell\Downloads\goldust.in\js\main.js
+Content Type: application/javascript
+
+Uri: https://goldust.in/js/plugins.js
+File Name: C:\Users\Dell\Downloads\goldust.in\js\plugins.js
+Content Type: application/javascript
+
+Uri: https://goldust.in/MailFormate/Goldust-Brochure.pdf
+File Name: C:\Users\Dell\Downloads\goldust.in\MailFormate\Goldust-Brochure.pdf
+Content Type: application/pdf
+
+Uri: https://goldust.in/project.aspx
+File Name: C:\Users\Dell\Downloads\goldust.in\project.html
+Content Type: text/html
+
+Uri: https://goldust.in/webfonts/fa-brands-400.ttf
+File Name: C:\Users\Dell\Downloads\goldust.in\webfonts\fa-brands-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://goldust.in/webfonts/fa-brands-400.woff2
+File Name: C:\Users\Dell\Downloads\goldust.in\webfonts\fa-brands-400.woff2
+Content Type: font/x-woff2
+
+Uri: https://goldust.in/webfonts/fa-regular-400.ttf
+File Name: C:\Users\Dell\Downloads\goldust.in\webfonts\fa-regular-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://goldust.in/webfonts/fa-regular-400.woff2
+File Name: C:\Users\Dell\Downloads\goldust.in\webfonts\fa-regular-400.woff2
+Content Type: font/x-woff2
+
+Uri: https://goldust.in/webfonts/fa-solid-900.ttf
+File Name: C:\Users\Dell\Downloads\goldust.in\webfonts\fa-solid-900.ttf
+Content Type: application/octet-stream
+
+Uri: https://goldust.in/webfonts/fa-solid-900.woff2
+File Name: C:\Users\Dell\Downloads\goldust.in\webfonts\fa-solid-900.woff2
+Content Type: font/x-woff2
+
+Uri: https://goldust.in/webfonts/fa-v4compatibility.ttf
+File Name: C:\Users\Dell\Downloads\goldust.in\webfonts\fa-v4compatibility.ttf
+Content Type: application/octet-stream
+
+Uri: https://goldust.in/webfonts/fa-v4compatibility.woff2
+File Name: C:\Users\Dell\Downloads\goldust.in\webfonts\fa-v4compatibility.woff2
+Content Type: font/x-woff2
+
